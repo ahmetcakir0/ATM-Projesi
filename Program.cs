@@ -2,6 +2,8 @@
 double bakiye = Convert.ToDouble(Console.ReadLine());
 int secim;
 
+//hakan not.
+
 do
 {
     Console.WriteLine("\n--- ATM Menüsü ---");
